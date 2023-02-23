@@ -68,3 +68,28 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+
+### links to look in to
+
+If you are using VSCode to code react:
+
+ES7+ React/Redux/React-Native snippets
+- creates code snippets for react using keywords
+
+- Ex: entering rfc creates reactFunctionalComponent starter code
+
+
+https://getbootstrap.com/ find code snippets to use for react app
+
+
+https://www.npmjs.com/ site for packages for react, console commands to install packages come from each individual page
+
+
+chrome web store -> search for React Developer Tools and add to extensions'
+
+
+To fully get this working, I have another repo with the backend all finished
